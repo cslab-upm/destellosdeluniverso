@@ -1,6 +1,6 @@
-# Sonidos del Cielo
+# Destellos del Universo
 
-Página web oficial del proyecto *Destellos del Universo*, creada y publicada en 2022. 
+Página web oficial del proyecto *Destellos del Universo*, creada y publicada en 2022.
 
 ## Acceso a la web:
 Existen una URL de acceso a la web online:
@@ -42,4 +42,3 @@ git checkout gh-pages
 git merge master
 git push
 ```
-
