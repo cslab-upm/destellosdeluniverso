@@ -1,15 +1,13 @@
 # Sections info
-title: Sonidos del cielo
-subtitle: ¿Alguna vez has escuchado una estrella?
+title: Destellos del UNiverso
+subtitle: ¿Alguna vez has visto un meteoro?
 about: Sobre el proyecto
-excerpt: Sonidos del cielo es un proyecto que haciendo uso de tecnologías muy innovadoras pretende
-              involucrar a los ciudadanos en tareas de estudio y clasificación de meteoros, haciendo accesible
-              estas actividades de clasificación a niños y personas invidentes. 
+excerpt: Destellos del universo es un proyecto que haciendo uso de tecnologías muy innovadoras pretende involucrar a los ciudadanos en tareas de estudio y clasificacion de meteoros, haciendo accesible estas actividades en clasificación a niños y personas invidentes.
 more: Ver más
 url: /proyecto/
 news: Noticias
 empty-msg: No hay noticias por el momento...
 empty-img: /docs/images/empty.png
 
-radio: Radio streaming
-stations: Escucha nuestro streaming con sonidos del cielo detectados en directo desde las estaciones de Fuenlabrada y el Complejo Astronómico e-EyE.
+#radio: Radio streaming
+#stations: Escucha nuestro streaming con sonidos del cielo detectados en directo desde las estaciones de Fuenlabrada y el Complejo Astronómico e-EyE.
