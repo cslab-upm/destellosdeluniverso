@@ -30,8 +30,8 @@ Enlace a las noticias en nuestras redes sociales: Instagram, Facebook y Twitter.
 
 
 
-Twitter: *@cslabupm*(https://twitter.com/cslabupm)
+Twitter: [*@cslabupm*](https://twitter.com/cslabupm)
 
-Instagram: *@cslabupm*(https://www.instagram.com/cslabupm/)
+Instagram: [*@cslabupm*](https://www.instagram.com/cslabupm/)
 
-Facebook: *@cslab-upm* (https://www.facebook.com/cslabupm/)
+Facebook: [*@cslab-upm*](https://www.facebook.com/cslabupm/)
