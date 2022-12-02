@@ -25,4 +25,5 @@ Os esperamos a todos el próximo jueves 17 de noviembre, no olvidéis inscribiro
 
 
 [Enlace a la noticia e inscripción en la web de la ETSIDI.](https://www.upm.es//Investigacion/innovacion/OTRI/UnidadCulturaCientifica/SemanaCiencia/Articulos?fmt=detail&prefmt=articulo&id=4e5c61d76dc62810VgnVCM10000009c7648a____)
+
 [Enlace a la noticia en la web de la UPM – Unidad de Cultura Científica.](https://www.upm.es/Investigacion/innovacion/OTRI/UnidadCulturaCientifica/SemanaCiencia?id=d6e4ca44da852810VgnVCM10000009c7648a____&fmt=detail&prefmt=articulo)

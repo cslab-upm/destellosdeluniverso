@@ -34,4 +34,4 @@ Twitter: [*@cslabupm*](https://twitter.com/cslabupm)
 
 Instagram: [*@cslabupm*](https://www.instagram.com/cslabupm/)
 
-Facebook: [*@cslab-upm*] (https://www.facebook.com/cslabupm/)
+Facebook: [*@cslab-upm*](https://www.facebook.com/cslabupm/)
