@@ -1,8 +1,8 @@
 ---
 title: "Semana de la Ciencia y la Innovación 2022"
 image: 
-  thumbnail:
-  caption: ""
+  thumbnail: docs/images/prensa/Encabezado2.png
+  caption: "2022, 17 Noviembre"
 categories:
   - Divulgación
 tags:
