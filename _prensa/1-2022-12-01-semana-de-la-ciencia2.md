@@ -1,7 +1,7 @@
 ---
 title: "Semana de la Ciencia y la Innovación 2022"
 image: 
-  thumbnail: docs/images/prensa/Encabezado2.jpeg
+  thumbnail: docs/images/prensa/Encabezado2.png
   caption: ""
 categories:
   - Divulgación

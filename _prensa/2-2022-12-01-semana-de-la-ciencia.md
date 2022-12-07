@@ -1,7 +1,7 @@
 ---
 title: "Resumen sobre la participación en la XXII Semana de la Ciencia y la Innova"
 image: 
-  thumbnail: docs/images/prensa/Encabezado1.jpeg
+  thumbnail: docs/images/prensa/Encabezado1.png
   caption: ""
 categories:
   - Divulgación
