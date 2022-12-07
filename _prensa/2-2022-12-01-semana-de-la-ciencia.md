@@ -1,8 +1,8 @@
 ---
 title: "Resumen sobre la participación en la XXII Semana de la Ciencia y la Innova"
 image: 
-  thumbnail: docs/images/prensa/encabezado.jpeg
-  caption: ""
+  thumbnail: docs/images/prensa/Encabezado1.png
+  caption: "2022, 17 Noviembre"
 categories:
   - Divulgación
 tags:
