@@ -4,7 +4,7 @@ layout: project
 permalink: /proyecto/
 ---
 
-(/destellosdeluniverso/docs/images/imagen_proyecto1.png)
+<img src="../docs/images/imagen_proyecto1.png" style="height:250px">
 
 # Objetivos
 
@@ -20,30 +20,35 @@ Los objetivos técnicos de “Destellos del universo” son:
 
 # Infraestructura
 
-El equipo del proyecto cuenta con varias ((estaciones de radiodetección)[https://cslab-upm.github.io/sonidosdelcielo/proyecto/]), gracias a los proyectos previos Sonidos del Cielo y Contadores de Estrellas, tal y como se puede leer en detalle en sus páginas web. 
+El equipo del proyecto cuenta con varias [estaciones de radiodetección](https://cslab-upm.github.io/sonidosdelcielo/proyecto/), gracias a los proyectos previos Sonidos del Cielo y Contadores de Estrellas, tal y como se puede leer en detalle en sus páginas web. 
 
-(/destellosdeluniverso/docs/images/imagen_proyecto2.png)
+<img src="../docs/images/imagen_proyecto2.png" style="height:250px">
+******Antenas de radiodetección del proyecto******
 
 El proyecto también cuenta con cámaras allsky en el observatorio astronómico Francisco Sánchez (en el Campus de Montegacedo, en la azotea de la Escuela Técnica Superior de Ingenieros Informáticos (UPM), en Boadilla del Monte); en el observatorio del Aula de Astronomía de Fuenlabrada (sede del Grupo Docente Kepler); y algunas otras pertenecientes al Instituto de Astrofísica de Canarias quien cede las imágenes para su estudio.
 
-(/destellosdeluniverso/docs/images/imagen_proyecto3.png)
+<img src="../docs/images/imagen_proyecto3.png" style="height:250px"><img src="../docs/images/imagen_proyecto4.png" style="height:50px">
+******Cámaras allsky del observatorio astronómico Francisco Sánchez******
 
-(/destellosdeluniverso/docs/images/imagen_proyecto4.png)
-
-(/destellosdeluniverso/docs/images/imagen_proyecto5.png)
+<img src="../docs/images/imagen_proyecto4.png" style="height:250px">
+******Imagen tomada por una de las allsky del observatorio astronómico Francisco Sánchez******
 
 # Ciencia ciudadana
 
 Se necesita la ayuda de los ciudadanos en una tarea muy simple como es la de analizar los diferentes objetos captados por las allsky. Los astrónomos profesionales no pueden dedicar su tiempo a esta labor y actualmente no existe un software libre que permita realizar dicha tarea con el 100% de efectividad. Como se ve en la siguiente figura, las cámaras allsky pueden grabar secuencias de vídeo en la que no haya meteoros, sino que se trate de nubes, aviones u otros objetos que no interesan para nuestro estudio.
 
-(/destellosdeluniverso/docs/images/imagen_proyecto6.png)
+<img src="../docs/images/imagen_proyecto5.png" style="height:250px">
 
 “Destellos del universo” desarrollará un experimento muy sencillo integrado en una de las mayores plataformas de proyectos de Ciencia Ciudadana, Zooniverse, para que cualquier ciudadano participe en dicha tarea y el proceso sea rápido y sencillo.
 
 <div style="text-align: center;">
+
 **¿Nos ayudas?**
 
-Ya está disponible la versión beta del experimento (enlace)[https://www.zooniverse.org/projects/cslab-upm/destellos-del-universo].
+
+Ya está disponible la versión beta del experimento [enlace](https://www.zooniverse.org/projects/cslab-upm/destellos-del-universo).
+
+<div style="text-align: left;">
 
 # Datos abiertos
 
