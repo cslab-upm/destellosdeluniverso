@@ -8,7 +8,6 @@ categories:
 tags:
   - ciencia ciudadana
   - destellos del universo
-last_modified_at: 2022-11-30T16:19:55-05:00
 ---
 
 ***Con la colaboración de la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) - [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/)***
