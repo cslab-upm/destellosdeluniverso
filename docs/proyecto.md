@@ -34,7 +34,7 @@ El proyecto también cuenta con cámaras allsky en el observatorio astronómico 
 
 <div style="text-align: center;">
 
-<img src="../docs/images/imagen_proyecto3.png" style="height:250px">|<img src="../docs/images/imagen_proyecto4.png" style="height:250px">
+<img src="../docs/images/imagen_proyecto3.png" style="height:250px"><img src="../docs/images/imagen_proyecto4.png" style="height:250px">
 
 Cámaras allsky del observatorio astronómico Francisco Sánchez
 
