@@ -1,6 +1,6 @@
 #banner {
     background-attachment: fixed;
-    background-image: url(https://images.unsplash.com/photo-1549417182-56f2bafc2c40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1055&q=80);
+    background-image: "../docs/images/fondo1.png";
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
