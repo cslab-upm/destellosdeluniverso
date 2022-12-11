@@ -4,7 +4,7 @@ layout: project
 permalink: /proyecto/
 ---
 
-<img src="../docs/images/imagen_proyecto1.png" style="height:250px">
+<img src="../docs/images/imagen_proyecto1.png" style="height:400px">
 
 # Objetivos
 
@@ -29,11 +29,14 @@ El equipo del proyecto cuenta con varias [estaciones de radiodetección](https:/
 
 El proyecto también cuenta con cámaras allsky en el observatorio astronómico Francisco Sánchez (en el Campus de Montegacedo, en la azotea de la Escuela Técnica Superior de Ingenieros Informáticos (UPM), en Boadilla del Monte); en el observatorio del Aula de Astronomía de Fuenlabrada (sede del Grupo Docente Kepler); y algunas otras pertenecientes al Instituto de Astrofísica de Canarias quien cede las imágenes para su estudio.
 
-<img src="../docs/images/imagen_proyecto3.png" style="height:250px">|<img src="../docs/images/imagen_proyecto4.png" style="height:250px">
 <div style="text-align: center;">
+
+<img src="../docs/images/imagen_proyecto3.png" style="height:250px">|<img src="../docs/images/imagen_proyecto4.png" style="height:250px">
+
 ###### Cámaras allsky del observatorio astronómico Francisco Sánchez
 
 <img src="../docs/images/imagen_proyecto5.png" style="height:250px">
+
 ###### Imagen tomada por una de las allsky del observatorio astronómico Francisco Sánchez
 <div style="text-align: left;">
 
@@ -46,11 +49,6 @@ Se necesita la ayuda de los ciudadanos en una tarea muy simple como es la de ana
 “Destellos del universo” desarrollará un experimento muy sencillo integrado en una de las mayores plataformas de proyectos de Ciencia Ciudadana, Zooniverse, para que cualquier ciudadano participe en dicha tarea y el proceso sea rápido y sencillo.
 
 <div style="text-align: center;">
-
-****¿Nos ayudas?****
-
-
-
 
 Ya está disponible la versión beta del experimento [enlace](https://www.zooniverse.org/projects/cslab-upm/destellos-del-universo).
 
