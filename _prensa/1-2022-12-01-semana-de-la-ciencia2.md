@@ -2,13 +2,13 @@
 title: "Semana de la Ciencia y la Innovación 2022"
 image: 
   thumbnail: docs/images/prensa/Encabezado2.png
-  caption: ""
+  caption: "2022, 17 Noviembre"
 categories:
   - Divulgación
 tags:
   - ciencia ciudadana
   - destellos del universo
-last_modified_at: 2022-11-30T16:19:55-05:00
+date: 2022-11-17
 ---
 
 ***Con la colaboración de la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) - [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/)***
