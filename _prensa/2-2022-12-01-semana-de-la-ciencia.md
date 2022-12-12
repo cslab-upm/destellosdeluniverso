@@ -1,7 +1,7 @@
 ---
 title: "Resumen sobre la participación en la XXII Semana de la Ciencia y la Innova"
 image: 
-  thumbnail: docs/images/prensa/Encabezado1.png
+  thumbnail: docs/images/prensa/resumensemanaciencia2022.png
   caption: "2022, 17 Noviembre"
 categories:
   - Divulgación
@@ -13,7 +13,7 @@ date: 2022-11-17
 
 ***Con la colaboración de la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) - [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/)***
 
-<img src="../docs/images/prensa/encabezado.jpeg" style="height:500px">
+<img src="../docs/images/prensa/encabezado.jpeg">
 
 El 17 de noviembre presentamos en la ETSIDI la actividad:
 
@@ -24,7 +24,7 @@ Nos visitaron estudiantes de Bachillerato del Colegio San Gabriel de Madrid, qui
 Compartimos algunas fotografías de la jornada.
 
 
-<img src="../docs/images/prensa/fotos.png" style="height:500px">
+<img src="../docs/images/prensa/fotos.png">
 
 Enlace a las noticias en nuestras redes sociales: Instagram, Facebook y Twitter.
 
