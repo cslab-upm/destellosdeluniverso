@@ -1,6 +1,7 @@
 #banner {
     background-attachment: fixed;
-    background-image: <img src="destellosdeluniverso/docs/images/fondo1.png">
+    background-image: url(https://upm365-my.sharepoint.com/personal/raquel_cedazo_upm_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fraquel%5Fcedazo%5Fupm%5Fes%2FDocuments%2FArchivos%20de%20chat%20de%20Microsoft%20Teams%2Ffondo%2Ejpg&parent=%2Fpersonal%2Fraquel%5Fcedazo%5Fupm%5Fes%2FDocuments%2FArchivos%20de%20chat%20de%20Microsoft%20Teams&ga=1
+);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
