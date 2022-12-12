@@ -32,19 +32,23 @@ Antenas de radiodetección del proyecto
 <div style="text-align: left;">
 <div>
 
+
+
 El proyecto también cuenta con cámaras allsky en el observatorio astronómico Francisco Sánchez (en el Campus de Montegacedo, en la azotea de la Escuela Técnica Superior de Ingenieros Informáticos (UPM), en Boadilla del Monte); en el observatorio del Aula de Astronomía de Fuenlabrada (sede del Grupo Docente Kepler); y algunas otras pertenecientes al Instituto de Astrofísica de Canarias quien cede las imágenes para su estudio.
 
 <div style="text-align: center;">
-<div>
+
 
 <img src="../docs/images/imagen_proyecto3.png"><img src="../docs/images/imagen_proyecto4.png">
+
 
 Cámaras allsky del observatorio astronómico Francisco Sánchez
 
 <img src="../docs/images/imagen_proyecto5.png">
-<div>
+
 
 Imagen tomada por una de las allsky del observatorio astronómico Francisco Sánchez
+<div>
 
 <div style="text-align: left;">
 <div>
