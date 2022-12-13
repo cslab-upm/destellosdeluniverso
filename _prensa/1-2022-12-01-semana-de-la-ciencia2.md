@@ -13,7 +13,7 @@ date: 2022-11-17
 
 ***Con la colaboración de la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) - [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/)***
 
-<img src="../docs/images/prensa/imagen_1.jpg"><img src="../docs/images/prensa/imagen_2.png">
+<img src="../docs/images/prensa/imagen_1.png"><img src="../docs/images/prensa/imagen_2.png">
 
 El próximo día 17 de noviembre participaremos en la **XXII Semana de la Ciencia** dentro del programa de visitas guiadas y talleres que organiza la ETS Ingeniería y Diseño Industrial (ETSIDI – UPM), bajo el título de la actividad:
 

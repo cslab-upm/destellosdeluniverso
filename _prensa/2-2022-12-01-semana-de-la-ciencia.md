@@ -13,7 +13,7 @@ date: 2022-11-17
 
 ***Con la colaboración de la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) - [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/)***
 
-<img src="../docs/images/prensa/encabezado.jpeg">
+<img src="../docs/images/prensa/encabezado.png">
 
 El 17 de noviembre presentamos en la ETSIDI la actividad:
 
