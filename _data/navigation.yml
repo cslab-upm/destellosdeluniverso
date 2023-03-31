@@ -1,6 +1,8 @@
 # Site navigation links:
 - title: Proyecto
   url: /proyecto/
+- title: Equipo
+  url: /equipo/
 - title: Prensa
   url: /prensa/
 - title: Contacto
