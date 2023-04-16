@@ -60,7 +60,7 @@ El proyecto también cuenta con cámaras allsky en el observatorio astronómico 
 
 Se necesita la ayuda de los ciudadanos en una tarea muy simple como es la de analizar los diferentes objetos captados por las allsky. Los astrónomos profesionales no pueden dedicar su tiempo a esta labor y actualmente no existe un software libre que permita realizar dicha tarea con el 100% de efectividad. Como se ve en la siguiente figura, las cámaras allsky pueden grabar secuencias de vídeo en la que no haya meteoros, sino que se trate de nubes, aviones u otros objetos que no interesan para nuestro estudio.
 
-![](../docs/images/imagen_proyecto6.png)
+![](../docs/images/Español.jpg)
 
 “Destellos del universo” desarrollará un experimento muy sencillo integrado en una de las mayores plataformas de proyectos de Ciencia Ciudadana, Zooniverse, para que cualquier ciudadano participe en dicha tarea y el proceso sea rápido y sencillo.
 
