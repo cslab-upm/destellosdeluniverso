@@ -1,16 +1,13 @@
 ---
-title: "Jornada divulgativa del proyecto Destellos de Universo"
+title: "Jornada divulgativa del proyecto Destellos del Universo"
 image: 
   thumbnail: docs/images/prensa/portada_noticia.jpg
-  caption: "2023, 11 Mayo"
 categories:
   - Divulgación
 tags:
   - ciencia ciudadana
   - destellos del universo
-date: 10-Mayo-2023
 ---
-
 
 ¿Qué son las Perseidas, también conocidas como "Lágrimas de San Lorenzo"? ¿Cómo se producen las lluvias de estrellas? ¿Qué es una cámara de todo el cielo? ¿Qué es la Ciencia Ciudadana? En esta actividad divulgativa del proyecto Destellos del Universo, se dará respuesta a estas y otras cuestiones.
 
@@ -31,4 +28,3 @@ El [Aula de Astronomía de Fuenlabrada](https://www.auladeastronomiadefuenlabra
 El proyecto Destellos del Universo fomenta la participación de la sociedad en iniciativas de ciencia ciudadana con el principal objetivo de **aumentar las vocaciones científicas de los jóvenes**.
 
 <img src="../docs/images/prensa/11mayo2023-JornadaDivulgativaDestellosUniversoCartel.jpg">
-
