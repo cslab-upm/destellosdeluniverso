@@ -15,9 +15,9 @@ Es una actividad orientada a niños y niñas de 3º de primaria a la que puede a
  
 La fecha de la actividad es el **11 de mayo de 2023 (jueves) en horario de 18:00h a 19:30h, en el Aula de Astronomía de Fuenlabrada** (Calle Callao, nº 61, Fuenlabrada). La actividad consta de dos partes:
 
-+ ***Charla divulgativa (45 minutos)***. Raquel Cedazo, profesora de la Universidad Politécnica de Madrid y responsable del proyecto Destellos del Universo, junto a Ángel Pérez Navarro, miembro del Grupo Docente de Astronomía Kepler y de la Asociación para la enseñanza de la Astronomía, hablarán sobre lluvias de estrellas y ciencia ciudadana. Una sesión muy dinámica en la que se hará interactuar al público.
+- ***Charla divulgativa (45 minutos)***. Raquel Cedazo, profesora de la Universidad Politécnica de Madrid y responsable del proyecto Destellos del Universo, junto a Ángel Pérez Navarro, miembro del Grupo Docente de Astronomía Kepler y de la Asociación para la enseñanza de la Astronomía, hablarán sobre lluvias de estrellas y ciencia ciudadana. Una sesión muy dinámica en la que se hará interactuar al público.
 
-+ ***Sesión planetaria (45 minutos)***. Docentes del Aula de Astronomía de Fuenlabrada explicarán a las familias el Sistema Solar en su fantástico planetario.
+- ***Sesión planetaria (45 minutos)***. Docentes del Aula de Astronomía de Fuenlabrada explicarán a las familias el Sistema Solar en su fantástico planetario.
 	
 La actividad es gratuita pero se requiere inscripción previa porque las plazas son limitadas debido a la capacidad del planetario.
 
