@@ -6,7 +6,7 @@ permalink: /recursos/
 
 El Aula de Astronomía de Fuenlabrada ha elaborado la siguiente unidad didáctica para trabajar con cursos de primaria sobre el sistema solar y, más concretamente, los meteoros. Está disponible para cualquier docente que quiera realizar un taller sobre este campo:
 
-+ [Unidad didáctica: Cazando meteoros](../docs/images/UNIDAD_DIDACTICA_PARA_PRIMARIA_METEOROS.pdf) (PDF, 3 páginas). Autores: Aula de Astronomía de Fuenlabrada.
++ [Unidad didáctica: Cazando meteoros](../docs/images/UNIDAD_DIDACTICA_PARA_PRIMARIA_METEOROS_1.pdf) (PDF, 3 páginas). Autores: Aula de Astronomía de Fuenlabrada.
 
 Nuestro colaborador, el **Instituto de Astrofísica de Canarias**, también tiene una colección de unidades didácticas sobre Astronomía. Se enlazan las más relacionadas con este proyecto:
 
