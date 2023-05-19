@@ -31,5 +31,5 @@ Se trata de una unidad didáctica dirigida a profesores de Taller de Astronomía
 
 + Marcapaginas
 
-![](../docs/images/1.png)![](../docs/images/2.png)
+|![](../docs/images/1.png)|![](../docs/images/2.png)|
 
