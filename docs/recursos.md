@@ -3,6 +3,7 @@ title: Recursos
 layout: recursos
 permalink: /recursos/
 ---
+## Unidades Didácticas
 
 El Aula de Astronomía de Fuenlabrada ha elaborado la siguiente unidad didáctica para trabajar con cursos de primaria sobre el sistema solar y, más concretamente, los meteoros. Está disponible para cualquier docente que quiera realizar un taller sobre este campo:
 
@@ -15,4 +16,20 @@ Nuestro colaborador, el **Instituto de Astrofísica de Canarias**, también tien
 Se trata de una unidad didáctica dirigida a profesores de Taller de Astronomía y Ciencias Naturales de ESO y Bachillerato con el objetivo de introducir a los estudiantes en el campo de la investigación científica a través de la observación de las lluvias de meteoros a lo largo del año.
 
 + [Unidad didáctica: El cielo nocturno. Hemisferio Norte Verano](https://www.iac.es/cosmoeduca/enlaces/cielos.pdf) (PDF, 69 páginas). Autores: Juan Carlos Casado, Miquel Serra-Ricart y Cristina Abajas Bustillo. 
+
+## Material de difusión
+
++ Logo
+
+|![](../docs/images/logo_sin_texto.png)    |sin texto       |
+|![](../docs/images/logo_texto_español.png)|Texto en español|
+|![](../docs/images/logo_texto_ingles.png) |Texto en ingles |
+
++ [Folleto díptico sobre el proyecto](../docs/images/diptico_destellos.pdf) (PDF)
+
++ [Roll-up sobre el proyecto](../docs/images/roll_up_destellos.pdf) (PDF)
+
++ Marcapaginas
+
+![](../docs/images/1.png)![](../docs/images/2.png)
 
