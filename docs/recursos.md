@@ -21,13 +21,16 @@ Se trata de una unidad didáctica dirigida a profesores de Taller de Astronomía
 
 + Logo
 
-|![](../docs/images/logo_sin_texto.png)    |sin texto       |
-|![](../docs/images/logo_texto_español.png)|Texto en español|
-|![](../docs/images/logo_texto_ingles.png) |Texto en ingles |
+|![](../docs/images/logo_sin_texto.png)|![](../docs/images/logo_texto_español.png)|![](../docs/images/logo_texto_ingles.png) |
 
-+ [Folleto díptico sobre el proyecto](../docs/images/diptico_destellos.pdf) (PDF)
++ [Folleto díptico sobre el proyecto](../docs/images/diptico_destellos.pdf) (6.2 MB PDF)
 
-+ [Roll-up sobre el proyecto](../docs/images/roll_up_destellos.pdf) (PDF)
+![](../docs/images/diptico_1.png)
+![](../docs/images/diptico_2.png)
+
++ [Roll-up sobre el proyecto](../docs/images/roll_up_destellos.pdf) (34.2 MB PDF)
+
+![](../docs/images/roll_up.png)
 
 + Marcapaginas
 
