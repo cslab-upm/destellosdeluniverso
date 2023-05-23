@@ -32,7 +32,7 @@ Se trata de una unidad didáctica dirigida a profesores de Taller de Astronomía
 
 ![](../docs/images/roll_up.png)
 
-+ Marcapaginas
++ Marcapáginas
 
 |![](../docs/images/1.png)|![](../docs/images/2.png)|
 
